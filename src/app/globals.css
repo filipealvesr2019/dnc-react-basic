@@ -36,3 +36,43 @@ a{
 .tertiary-color{
     background-color: #F6F6F6;
 }
+
+
+/* GRID */
+
+.container{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1140px;
+    position: relative;
+    padding: 0 30px;
+}
+
+.al-center{
+    align-items:center;
+}
+
+.al-end{
+    align-items: end;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.fd-column{
+    flex-direction: column;
+}
+
+.jc-center{
+    justify-content: center;
+}
+
+.jc-end{
+    justify-content: end;
+}
+
+.jc-space-between{
+    justify-content: space-between;
+}
+
